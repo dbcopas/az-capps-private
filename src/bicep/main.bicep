@@ -6,7 +6,7 @@ targetScope = 'resourceGroup'
 param stackName string = 'acapdemo'
 
 @description('stack location')
-param stackLocation string = 'westeurope'
+param stackLocation string = 'eastus2'
 
 // process params to overcome some naming constraints 
 var lowerStackName = toLower(stackName)
