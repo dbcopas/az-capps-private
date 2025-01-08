@@ -1,5 +1,5 @@
 rgName = rgprivatecappsdemo
-location = westeurope
+location = eastus2
 stackName = acapdemo
 
 # fetches resource ids of the demo level provisionned resources, used for resource cleanup
